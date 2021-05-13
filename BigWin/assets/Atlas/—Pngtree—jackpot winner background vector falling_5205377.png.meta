@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "23c1cdc7-4ff2-4dc7-af27-f6d75aed48c8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "—Pngtree—jackpot winner background vector falling_5205377": {
+      "ver": "1.0.4",
+      "uuid": "bfdc6f7c-0078-48e2-82f1-9541b74c649a",
+      "rawTextureUuid": "23c1cdc7-4ff2-4dc7-af27-f6d75aed48c8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1200,
+      "height": 1200,
+      "rawWidth": 1200,
+      "rawHeight": 1200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
